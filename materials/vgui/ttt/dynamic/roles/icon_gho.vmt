@@ -6,5 +6,5 @@
 	"$nolod" 1
 	"$translucent" 1
 	"$vertexalpha" 1
-	"$vertexcolor" 0
+	"$vertexcolor" 1
 }

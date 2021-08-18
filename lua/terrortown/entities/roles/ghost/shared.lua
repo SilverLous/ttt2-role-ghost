@@ -6,7 +6,7 @@ end
 
 function ROLE:PreInitialize()
 	self.index = ROLE_GHOST
-	self.color = Color(255, 255, 255, 255)
+	self.color = Color(155, 155, 155, 255)
 	self.dkcolor = Color(245, 200, 200, 255)
 	self.bgcolor = Color(245, 200, 200, 255)
 	self.abbr = 'gho'
